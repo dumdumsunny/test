@@ -1,0 +1,62 @@
+
+/**{
+	text-align: right;
+}*/
+body{
+background-image: url(1.jpg);
+background-size: cover;
+}
+
+p{
+	color: white;
+/*	text-transform: uppercase;
+	text-transform: lowercase;*/
+/*	text-align: center;*/
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 130%;
+	font-family: Georgia;
+
+}
+
+h1 {
+	color: pink;
+}
+
+img{
+	float: left;
+}
+
+.webtext{
+	border: 3px dashed rgba(0, 0, 255, 0.2)
+}
+.active{
+	color: #8A4C13
+}
+
+/*#div1{
+	background: rgba(0, 255, 0, 0.2);
+}
+*/
+.boxmodel{
+	border: 5px solid white;
+	display: inline-block;
+	padding: 5px 20px;
+	margin: 0px 20px
+
+}
+footer{
+	text-align: center;
+	color: white;
+	clear: both;
+}
+
+.ok{
+	color: black;
+	font-size: 20px
+}
+
+span{
+	font-size: 2em
+}

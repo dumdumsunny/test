@@ -1,0 +1,40 @@
+
+/**{
+	text-align: right;
+}*/
+body{
+background-image: url(ok.jpg);
+background-size: cover;
+}
+
+p, form{
+	text-align: center;
+	color: white;
+}
+
+h1 {
+	color: pink;
+}
+
+li{
+	color: #ADC95D;
+	border: 5px solid rgb(104, 104, 0);
+}
+
+.webtext{
+	border: 3px dashed rgba(0, 0, 255, 0.2)
+}
+.active{
+	color: #8A4C13
+}
+
+#div1{
+	background: rgba(0, 255, 0, 0.2);
+}
+#div2{
+	background: rgba(255, 0, 0, 0.2);
+}
+
+img{
+	float: left;
+}
